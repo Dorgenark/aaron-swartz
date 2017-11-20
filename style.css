@@ -1,0 +1,68 @@
+body {
+    background-color: lightgrey;
+}
+
+.page {
+    display: block;
+    margin-left: 28%;
+    margin-right: 28%;
+}
+
+.image {
+    border: 5px solid #CCCCCC;
+    border-radius: 115px;
+    margin-left: 250px;
+    height: 150px;
+    width: 150px;
+    margin-top: 25px;
+}
+
+.button {
+    display: inline;
+    text-align: center;
+}
+
+.facebook, .linkedin, .twitter {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.facebook:hover {
+    opacity: 0.5;
+}
+
+.linkedin:hover {
+    opacity: 0.5;
+}
+
+.twitter:hover {
+    opacity: 0.5;
+}
+
+h1 {
+    color: #DD5555;
+    text-align: center;
+}
+
+h3 {
+    text-align: justify;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.more {
+    text-align: center;
+    padding: 10px;
+}
+
+.text {
+    padding: 20px;
+    text-align: justify;
+}
+
+.head, .social, .text {
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px darkgrey;
+}
